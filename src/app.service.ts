@@ -5,6 +5,6 @@ export class AppService {
   getHello(request: Request): string {
     console.log(`Request made: ${request.url}`);
 
-    return 'Hello World';
+    return 'Hello World!';
   }
 }
