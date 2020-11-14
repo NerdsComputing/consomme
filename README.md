@@ -40,6 +40,10 @@ $ docker-compose up
 $ npm install
 ```
 
+## Configuration
+/config folder will hold all future configuration required
+[more here](https://docs.nestjs.com/techniques/configuration#configuration-namespaces) 
+
 ## Running the app
 
 ```bash
